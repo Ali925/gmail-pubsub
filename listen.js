@@ -1,3 +1,5 @@
+// first need to export google credentials
+//export GOOGLE_APPLICATION_CREDENTIALS="/Users/ali/Downloads/sturdy-magnet-236118-01a595e2661a.json"
 
 const subscriptionName = 'projects/sturdy-magnet-236118/subscriptions/receive-email';
 const timeout = 60000;
